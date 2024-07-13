@@ -48,5 +48,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Suraj
+Suraj.
 Email: surajyuva2000@gmail.com
